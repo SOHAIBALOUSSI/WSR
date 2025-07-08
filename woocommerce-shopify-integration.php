@@ -1,11 +1,9 @@
 <?php
 /**
  * Plugin Name: WooCommerce Shopify Integration
- * Plugin URI: https://example.com/woocommerce-shopify-integration
  * Description: Secure integration with Shopify for WooCommerce, enabling secure payments through Shopify checkout.
  * Version: 1.0.1
  * Author: @bat
- * Author URI: https://example.com
  * Text Domain: woocommerce-shopify-integration
  * Domain Path: /languages
  * License: GPL v2 or later
